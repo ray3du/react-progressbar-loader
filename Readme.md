@@ -1,15 +1,15 @@
-# react-progressbar-loader
+# react-progressbar-loader-circle
 react-progressBar provides a fully customizable and simple component for rendering a progressBar.
 
 ## Installation
-``` npm i react-progressbar-loader ```
+``` npm i react-progressbar-loader-circle ```
 
-## Getting started with react-progressbar-loader
-react-progressbar-loader is a react component that renders a progressBar. A progressBar is essential when fetching data from API's due to the time delay between the request and response. You can utilize the progressBar to show system status during the delay between requests.
+## Getting started with react-progressbar-loader-circle
+react-progressbar-loader-circle is a react component that renders a progressBar. A progressBar is essential when fetching data from API's due to the time delay between the request and response. You can utilize the progressBar to show system status during the delay between requests.
 
 ```javascript
-//import progressBar from react-progressbar-loader
-import { ProgressBar } from "react-progressbar-loader"
+//import progressBar from react-progressbar-loader-circle
+import { ProgressBar } from "react-progressbar-loader-circle"
 
 function App() {
   return (
@@ -22,7 +22,7 @@ function App() {
 
 export default App;
 ```
-react-progressbar-loader allows the developer to customize the progressBar depending on his/her needs. 
+react-progressbar-loader-circle allows the developer to customize the progressBar depending on his/her needs. 
 #### Customizable elements
 - width ```default 48px```
 - height ```default 48px```
@@ -33,8 +33,8 @@ react-progressbar-loader allows the developer to customize the progressBar depen
 
 Example of customized progress bar
 ```javascript
-//import progressBar from react-progressbar-loader
-import { ProgressBar } from "react-progressbar-loader"
+//import progressBar from react-progressbar-loader-circle
+import { ProgressBar } from "react-progressbar-loader-circle"
 
 function App() {
   return (

@@ -1,6 +1,6 @@
 {
-  "name": "react-loader-progressbar",
-  "version": "0.1.0",
+  "name": "react-progressbar-loader-circle",
+  "version": "0.0.1",
   "description": "Fully contrallable react progress bar ",
   "main": "dist/index.js",
   "module": "dist/index.es.js",

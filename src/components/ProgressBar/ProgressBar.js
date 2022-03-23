@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import './ProgressBarStyle.css'
 
 export const ProgressBar = ({width, height, borderRadius, borderWidth, borderColor, borderTopColor, borderTopWidth}) => {
