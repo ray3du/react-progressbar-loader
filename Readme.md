@@ -1,5 +1,5 @@
 # react-progressbar-loader-circle
-react-progressBar provides a fully customizable and simple component for rendering a progressBar.
+react-progressbar-loader-circle provides a fully customizable and simple component for rendering a progressBar.
 
 ## Installation
 ``` npm i react-progressbar-loader-circle ```
@@ -45,7 +45,7 @@ function App() {
         height={"60px"}
         borderColor={"#FFFFFF"}
         borderWidth={"10px"}
-        borderTopColor={"#CCCCCC"}
+        borderTopColor={"#FA8072"}
         borderTopWidth={"10px"}
       />
     </div>
@@ -55,4 +55,4 @@ function App() {
 export default App;
 ```
 
-#### Happy hacking
+# Happy hacking
