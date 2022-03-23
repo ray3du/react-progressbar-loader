@@ -22,6 +22,8 @@ function App() {
 
 export default App;
 ```
+![default progress bar image](https://raw.githubusercontent.com/ray3du/react-progressbar-loader/main/src/public/default_loader.png)
+
 react-progressbar-loader-circle allows the developer to customize the progressBar depending on his/her needs. 
 #### Customizable elements
 - width ```default 48px```
@@ -54,5 +56,6 @@ function App() {
 
 export default App;
 ```
+![modified progress bar image](https://raw.githubusercontent.com/ray3du/react-progressbar-loader/main/src/public/modefied_loader.png)
 
 # Happy hacking
